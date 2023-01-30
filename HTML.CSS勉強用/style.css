@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background: green;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+#hero img{
+    width: 100%;
+    vertical-align: top;
+}
+#about{
+    background-image: url(img/back.jpg);
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+#about h2{
+    font-size: 36px;
+    margin-bottom: 20px;
+    
+}
+#rhino img{
+    width: 100%;
+    vertical-align: top;
+}
+#today{
+    background-image: url(img/back.jpg);
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+#today h3{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+#stego img{
+    width: 100%;
+    vertical-align: top;
+}
+#yesterday{
+    background-image: url(img/back.jpg);
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+#yesterday h4{
+    font-size: 36px;
+    margin-bottom: 50px;
+}
+aside{
+    background: black;
+    text-align: center;
+    padding: 100px;
+    color: white;
+}
+aside p{
+    padding-bottom: 20px;
+}
+aside h5{
+    font-size: 50px;
+    color: green;
+    margin-bottom: 50px;
+}
+aside p{
+    margin-bottom: 20px;
+}
+aside span{
+    color: gold;
+    font-size: 20px;
+    font-weight: 700;
+}
+aside img{
+    width: 100%;
+}
+aside div{
+    background: gold;
+    padding: 30px;
+}
+
+footer{
+    background: green;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
